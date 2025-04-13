@@ -1,0 +1,89 @@
+/* CSS DYAH CANDRA DEWI_235150401111064 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border-bottom: 2px solid #ddd; */
+    border-bottom: 2px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: #000435;
+    color: white;
+    padding: 20px;
+}
+
+/* .header img {
+    width: 100px;
+    height: 100px;
+    border-radius: 0%;
+    margin-right: 20px;
+} */
+
+.foto-ktm img{
+    /* padding-top: 20px; */
+    width: 120px; 
+    height: 170px;
+    object-fit: cover; 
+    border: 2px solid white; /
+}
+
+.contact p {
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+    margin: 5px;
+}
+
+.icon {
+    width: 20px; /* Sesuaikan ukuran ikon */
+    height: auto;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 5px;
+}
+
+h2 {
+    border-bottom: 2px solid #000435;
+    padding-bottom: 5px;
+    color: #000435;
+}
+
+h3 {
+    color: #333;
+    margin-top: 10px;
+}
+
+h4{
+    color:cadetblue;
+    margin-bottom: 2px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
